@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "demoapi"
+rootProject.name = "DemoApi"
 
 include(":site")
